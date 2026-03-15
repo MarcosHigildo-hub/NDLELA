@@ -1,3 +1,11 @@
+import './globals.css';
+import {Inter} from 'next/font/google';
+
+const inter = Inter({
+  subsets: ["latin"],
+  variable: "--font-inter"
+})
+
 export default function DashboardLayout({
   children,
 }: {
@@ -5,9 +13,7 @@ export default function DashboardLayout({
 }) {
   return (
     <html lang="en">
-      <body>
-        {/* Layout UI */}
-        {/* Place children where you want to render a page or nested layout */}
+      <body className={inter.className}>
         <main>{children}</main>
       </body>
     </html>
