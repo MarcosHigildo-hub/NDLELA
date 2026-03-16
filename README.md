@@ -1,58 +1,79 @@
-# Ndlela
+# NDLELA
 
-Find Your Way.
+**Find Your Way.**
 
-Ndlela is an open initiative to map and organize urban mobility in Mozambique, starting with informal transport routes such as chapas.
+NDLELA é uma iniciativa aberta que pretende mapear e organizar a mobilidade urbana em Moçambique, começando pelas rotas de transporte informal como os **chapas**.
 
-## About
+O objetivo é criar uma base de informação acessível que ajude pessoas a navegar pelas cidades com mais facilidade.
 
-Many people in Mozambique face difficulties navigating cities using public and informal transport. Information about routes, stops and connections is often fragmented or unavailable.
+---
 
-Ndlela aims to change that by building a structured and open mobility map.
+## Sobre o Projeto
 
-## The Problem
+Em muitas cidades de Moçambique, a mobilidade urbana depende fortemente de sistemas informais de transporte. No entanto, informações sobre **rotas, paragens e conexões** raramente estão documentadas ou organizadas.
 
-Transport routes are rarely documented.
-Visitors struggle to navigate cities.
-Even residents often rely on word-of-mouth to move around.
+Muitas pessoas dependem apenas de **informação passada de boca em boca** para se deslocarem.
 
-## The Vision
+NDLELA nasce com o objetivo de estruturar essa informação e torná-la acessível através de um **mapa digital de mobilidade**.
 
-Ndlela aims to create a digital mobility infrastructure for Mozambique.
+---
 
-A system that helps people:
+## O Problema
 
-- discover transport routes
-- navigate cities
-- explore neighborhoods
-- move with confidence
+Atualmente existem várias dificuldades relacionadas com mobilidade urbana:
 
-## What Ndlela Will Do
+- Rotas de transporte não documentadas
+- Falta de informação clara sobre paragens
+- Dificuldade para visitantes e turistas se orientarem
+- Dependência de conhecimento local para se deslocar
 
-The project will gradually build:
+Mesmo residentes muitas vezes enfrentam dificuldades ao tentar navegar por zonas que não conhecem.
 
-- a structured map of routes
-- a database of stops
-- navigation tools
-- mobility insights
+---
 
-## Project Status
+## A Visão
 
-Early development.
+NDLELA pretende construir uma **infraestrutura digital de mobilidade para Moçambique**.
 
-Currently focusing on:
+Uma plataforma que permita às pessoas:
 
-- mapping routes
-- building the base map
-- structuring data
+- descobrir rotas de transporte
+- navegar pelas cidades
+- explorar bairros e locais
+- deslocar-se com mais confiança
+
+---
+
+## O Que o Projeto Pretende Construir
+
+O NDLELA irá evoluir gradualmente para incluir:
+
+- um mapa estruturado de rotas de transporte
+- uma base de dados de paragens
+- ferramentas de navegação
+- informação útil sobre mobilidade urbana
+
+---
+
+## Estado do Projeto
+
+O projeto encontra-se em fase inicial de desenvolvimento.
+
+O foco atual está em:
+
+- estruturar o projeto
+- iniciar o mapeamento de rotas
+- construir a base do sistema
+
+---
 
 ## Roadmap
 
-V1 — Map visualization and routes  
-V2 — Route search  
-V3 — Mobility navigation  
-V4 — Urban exploration
+**V1** — Visualização do mapa e rotas  
+**V2** — Pesquisa de rotas  
+**V3** — Navegação de mobilidade  
+**V4** — Exploração urbana
 
-## License
+## Documentação
 
-MIT
+Mais detalhes sobre o projeto podem ser encontrados em `docs/`.
