@@ -37,4 +37,9 @@
   .container {
     @apply max-w-6xl mx-auto px-6
   }
+
+  .nav-link {
+    @apply text-sm font-medium text-secondary transition-colors duration-200 hover:text-primary;
+  }
 }
+
