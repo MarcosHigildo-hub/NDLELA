@@ -14,7 +14,7 @@ export default function DashboardLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <main>{children}</main>
+        <main className='bg-light'>{children}</main>
       </body>
     </html>
   )
