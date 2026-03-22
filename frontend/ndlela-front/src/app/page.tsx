@@ -1,5 +1,6 @@
 import Navbar from "../components/landing/Navbar";
 import Hero from "../components/landing/Hero";
+import About from "../components/landing/About";
 
 export default function Page() {
   return (
@@ -7,6 +8,7 @@ export default function Page() {
       <section>
         <Navbar/>
         <Hero/>
+        <About/>
       </section>
     </div>
   );
