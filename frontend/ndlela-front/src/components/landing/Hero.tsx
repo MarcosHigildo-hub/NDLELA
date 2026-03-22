@@ -40,7 +40,7 @@ export default function Hero() {
         </svg>
       </div>
 
-      <div className="relative z-50 flex h-full items-center">
+      <div className="relative z-20 flex h-full items-center">
         <Container>
           <div className="max-w-2xl text-white">
             <h2 className="tracking-tight animate-fade-up-slow [animation-delay:0.3s] opacity-0">Navegue pela cidade sem <span className="text-accent">barreiras.</span></h2>
