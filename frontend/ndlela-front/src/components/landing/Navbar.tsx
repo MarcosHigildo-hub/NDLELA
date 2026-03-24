@@ -16,12 +16,13 @@ export default function Navbar() {
       <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
 
         <Link href="/" className="flex items-center gap-3">
-          <div className="relative w-35 h-35 md:w-45 md:h-45">
+          <div className="relative w-35 h-35 aspect-video md:aspect-square md:w-45 md:h-45">
             <Image
               src="/logo.png"
               alt="Ndlela logo"
               fill
               className="object-contain"
+              priority
             />
           </div>
 
