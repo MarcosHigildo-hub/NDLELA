@@ -64,7 +64,7 @@ export default function Problem() {
               caminho.
             </p> */}
 
-            <div className="grid gap-4 grid-cols-2 animate-fade-up-slow [animation-delay:1.3s] opacity-0">
+            <div className="grid gap-4 md:grid-cols-2 animate-fade-up-slow [animation-delay:1.3s] opacity-0">
               {problems.map((prob, index) => (
                 <div
                   key={index}

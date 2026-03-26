@@ -55,7 +55,7 @@ export default function Hero() {
                 <ArrowRight size={16}/>
               </Button>
 
-              <Button variant="outline">
+              <Button variant="outline-light">
                 Saber Mais
                 <MapPin size={16}/>
               </Button>
