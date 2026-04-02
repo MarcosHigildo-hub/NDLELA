@@ -4,6 +4,7 @@ import About from "../components/landing/About";
 import Problem from "../components/landing/Problem";
 import Solution from "../components/landing/Solution";
 import Roadmap from "../components/landing/Roadmap";
+import Footer from "../components/landing/Footer";
 
 export default function Page() {
   return (
@@ -15,6 +16,7 @@ export default function Page() {
         <Problem/>
         <Solution/>
         <Roadmap/>
+        <Footer/>
       </section>
     </div>
   );
