@@ -1,0 +1,12 @@
+"use client"
+
+import dynamic from "next/dynamic";
+
+const MapView = dynamic(
+    () => import("@/src/components/map/MapView"),
+    {ssr: false}
+);
+
+export default function MapClient() {
+    return <MapView/>
+}
